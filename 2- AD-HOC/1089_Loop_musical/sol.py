@@ -20,5 +20,3 @@ while True:
 
     amostras = list(map(int, input().split()))
     print(contar_picos(amostras))
-
-    
